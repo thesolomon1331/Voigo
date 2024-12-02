@@ -29,8 +29,12 @@ const DeleteAccount = () => {
               <p>
                 On the app bar at the top right corner, you will see three dots.
               </p>
-              <div className="mt-4 bg-gray-200 rounded-lg h-40 flex items-center justify-center text-gray-500">
-                (Add Image Here: Highlighting the three dots on the app bar)
+              <div className="mt-4 h-fit rounded-lg flex items-center justify-center">
+                {/* <image src="" /> */}
+                <img
+                  src="https://github.com/thesolomon1331/Voigo/blob/main/frontend/src/assets/delete-image-1.jpeg?raw=true"
+                  className="rounded-lg shadow-lg sm:w-1/2"
+                />
               </div>
             </div>
 
@@ -45,9 +49,11 @@ const DeleteAccount = () => {
                   <li>Delete Account</li>
                 </ul>
               </p>
-              <div className="mt-4 bg-gray-200 rounded-lg h-40 flex items-center justify-center text-gray-500">
-                (Add Image Here: Displaying the dropdown menu with the "Logout"
-                and "Delete Account" options)
+              <div className="mt-4 h-fit rounded-lg flex items-center justify-center">
+                <img
+                  src="https://github.com/thesolomon1331/Voigo/blob/main/frontend/src/assets/delete-image-2.jpeg?raw=true"
+                  className="rounded-lg shadow-lg sm:w-1/2"
+                />
               </div>
             </div>
 
@@ -58,8 +64,8 @@ const DeleteAccount = () => {
                 Select the "Delete Account" option to proceed. A confirmation
                 prompt will appear to ensure you want to delete your account.
               </p>
-              <div className="mt-4 bg-gray-200 rounded-lg h-40 flex items-center justify-center text-gray-500">
-                (Add Image Here: Showing the confirmation prompt)
+              <div className="mt-4 h-fit rounded-lg flex items-center justify-center">
+              <img src="https://github.com/thesolomon1331/Voigo/blob/main/frontend/src/assets/delete-image-4.jpeg?raw=true" />
               </div>
             </div>
 
@@ -89,9 +95,8 @@ const DeleteAccount = () => {
               <p>
                 On the app bar at the top right corner, locate the three dots.
               </p>
-              <div className="mt-4 bg-gray-200 rounded-lg h-40 flex items-center justify-center text-gray-500">
-                (Add Image Here: Highlighting the three dots on the delivery app
-                interface)
+              <div className="mt-4 h-fit rounded-lg flex items-center justify-center">
+                <img src="https://github.com/thesolomon1331/Voigo/blob/main/frontend/src/assets/delete-image-3.jpeg?raw=true" />
               </div>
             </div>
 
