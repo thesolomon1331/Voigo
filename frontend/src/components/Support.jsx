@@ -44,7 +44,7 @@ const Support = () => {
                 valuable time.
               </p>
             </div>
-            <Link to={'/delete-account'} className="mt-4 bg-red-600 text-white py-2 px-4 rounded-lg text-sm font-medium hover:bg-red-700 transition-colors">
+            <Link to={'/voigo-support/delete-account'} className="mt-4 bg-red-600 text-white py-2 px-4 rounded-lg text-sm font-medium hover:bg-red-700 transition-colors">
               Delete Account
             </Link>
           </div>

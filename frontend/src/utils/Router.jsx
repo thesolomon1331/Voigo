@@ -48,7 +48,7 @@ const Router = () => {
       />
       <Route path="/contact-us" element={<ContactUs />} />
       <Route path="/voigo-support" element={<Support />} />
-      <Route path="/delete-account" element={<DeleteAccount />} />
+      <Route path="/voigo-support/delete-account" element={<DeleteAccount />} />
     </Routes>
   );
 };
